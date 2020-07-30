@@ -1,6 +1,7 @@
 # Análisis de Regresión
 ## Apuntes del curso
 * [Apunte Regresión](An_lisis_de_regresi_n.pdf)
+
 ## Tareas
 El curso consistio en 3 trabajos que tenian el mismo peso.
 
